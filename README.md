@@ -20,13 +20,13 @@ The dataset consists of two main columns:
 
 To set up the project locally, follow these steps:
 
-### 1. Clone the repository
-```bash
+## Clone the repository
+
 git clone https://github.com/yourusername/spam-mail-detection.git
 
 cd sms-mail-detection
 
-### Usage
+## Usage
 1. Data Preprocessing
 The first step in the project is to preprocess the dataset. This includes cleaning the text data (removing special characters, single characters, etc.), tokenizing the text, and converting it to lowercase.
 
