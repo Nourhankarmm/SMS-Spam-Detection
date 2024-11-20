@@ -22,7 +22,7 @@ To set up the project locally, follow these steps:
 
 ## Clone the repository
 
-git clone https://github.com/yourusername/spam-mail-detection.git
+git clone https://github.com/Nourhankarmm/SMS-Spam-Detection/blob/main/SMS_Spam_Detection.ipynb
 
 cd sms-mail-detection
 
