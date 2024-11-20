@@ -40,7 +40,7 @@ In this project, we train a Random Forest Classifier on the preprocessed data. W
 Once the project is set up, you can run the script to train the model and evaluate its performance.
 python spam_detection.py
 
-##dependencies
+## dependencies
 pandas: Data manipulation
 scikit-learn: For machine learning algorithms and tools
 matplotlib: For data visualization
@@ -49,10 +49,10 @@ nltk: Natural Language Toolkit for text processing
 You can install all required dependencies using the requirements.txt:
 pip install -r requirements.txt
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 Kaggle for the dataset.
 Scikit-learn for machine learning tools.
 NLTK for text processing.
